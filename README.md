@@ -7,9 +7,20 @@ For this analisys, temperature information of the ERA5 model was obtained using 
 The order is as follows:
 
 -[Load Era 5 Data](https://github.com/RubenVasquezArr/ESDP_homework_1/blob/main/load_era5.ipynb)
+
 -[Data exploration](https://github.com/RubenVasquezArr/ESDP_homework_1/blob/main/data_exploration.ipynb)
+
 -[HEALpix grid inteprolation](https://github.com/RubenVasquezArr/ESDP_homework_1/blob/main/HEALpix_grid_interpolation.ipynb)
+
 -[Uber's H3 grid interpolation](https://github.com/RubenVasquezArr/ESDP_homework_1/blob/main/H3_grid_interpolaton.ipynb)
+ 
 
 
  
+### Sources
+
+Copernicus data download instructions: https://cds.climate.copernicus.eu/api-how-to
+
+HEALpix library for python: https://healpy.readthedocs.io/en/latest/
+
+H3 Information and library: https://h3geo.org/
